@@ -1,40 +1,7 @@
-<<<<<<< HEAD
-# SOCIAL OPLESK
-### 🏴‍☠️ HACKS 
-
-<br/>
-
-📚 tutoriales de python [tutorial 1](https://docs.python.org/es/3/tutorial/) | [tutorial 2](https://www.w3schools.com/python/)
----
-
-```diff
-- NOTA HACER LAS PRÁCTICAS MEDIANTE VISUAL STUDIO CODE  
-```
-
-```diff
-* 1) Tienes que clonar el repositorio 
-  git clone https://github.com/SocialOplesk/hack_python_1.git
-  
-* 2) Instalar los paquetes
-  pip install -r requirements.txt
-
-* 3) Para validar los hacks
-  pytest test_hack.py -v (ejecuta todos los test)
-  pytest test_hack.py::test_hack_1 (ejecuta un test en específico)
-  pytest test_hack.py::test_hack_3 -v (ejecuta un test en específico)
-
-  ✔ NOTA: en caso de no reconocer el comando "pytest"
-          ejecutar el pytest así: python -m pytest test_hack.py -v
-       
-```
-#### 🎬 Clonar Repo + Instalar requirements
-![](https://github.com/SocialOplesk/hack_python_1/blob/main/gifs/hack_python_1_install.gif)
-
-<br/>
 
 |Hacks | Details | 
 |----------|---------|
-| H-1      | "FOOZIMAN"|
+| H-1      | "FOOZIMAN"| 
 | H-2      | "fooziman" |
 | H-3      | "Fooziman" | 
 | H-4      | "foozimaN" |
@@ -46,64 +13,24 @@
 | H-10      | ["F","0","0","Z","1","M","@","N"] | 
 <br/> 
 
-## 🏆 H-1
-🎬 Cómo resolver el hack y adicional ejecutar el testing, para validar el hack.
 
-![](https://github.com/SocialOplesk/hack_python_1/blob/main/gifs/hack_python_1_run.gif)
-```sh
-text: "fooziman" output => "FOOZIMAN"
-```
+# SOCIAL OPLESK
+## Estudiante Abraham Estaga
+### 🏴‍☠️ HACK PYTHON-1
 
-## 🏆 H-2
-```sh
-text: "FOOZIMAN" output => "fooziman"
-```
 
-## 🏆 H-3
-```sh
-text: "fooziman" output => "Fooziman"
-```
 
-## 🏆 H-4
-```sh
-text: "fooziman" output => "foozimaN"
-```
 
-## 🏆 H-5
-```sh
-text: "fooziman" output => "f00z1m@n"
-```
+PULL_REQUEST_TEMPLATE
+# Tecnología
+- [ ] PYTHON
+- [ ] CSS3
+- [ ] docs
 
-## 🏆 H-6 (FOR)
-```sh
-loop: for [] output => [0,1,2,3,4,5]
-```
-<br/>
-
-## 🏆 H-7 (WHILE)
-```sh
-loop: while [] output => [5,4,3,2,1,0]
-```
-<br/>
-
-## 🏆 H-8
-```sh
-list: [1,3,5,7,9] output => [3,5,7]
-```
-<br/>
-
-## 🏆 H-9 (WHILE)
-```sh
-loop: while [1,2,3] ouput => [1,'@',2,'@',3,'@']
-```
-<br/>
-
-## 🏆 H-10
-```sh
-text: "fooziman" output => ["F","0","0","Z","1","M","@","N"]  
-```
-<br/>
-
-=======
-# Respuestas_Hack_Python_1
->>>>>>> f6e34eacf87501e96140232334c266d7a98afa40
+# Seleccione el tipo de actividad
+- [ ] Feature
+- [ ] Changes
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
